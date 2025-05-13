@@ -1,5 +1,6 @@
 # Data
 
+this folder includes the combined data csv file which contains the scraped data from D1ticker and the Kaggle data in one set
 
 | Column Name | Data Type | Description | 
 | ------ | ------ | ----- |
@@ -12,4 +13,4 @@
 
 Link to site for data scraping: <https://www.d1ticker.com/2024-fbs-attendance-trends/>
 
-Kagle link: <https://www.kaggle.com/datasets/maraglobosky/bowl-game-history-big10-football-may2024?resource=download>
+Kaggle link: <https://www.kaggle.com/datasets/maraglobosky/bowl-game-history-big10-football-may2024?resource=download>
