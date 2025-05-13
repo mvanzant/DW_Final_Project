@@ -1,7 +1,7 @@
 # Data
 
 combined_data.csv: includes the combined data csv file which contains the scraped data from D1ticker and the Kaggle data in one set
-collegefootballbowl: CSV file that contains the data straight from Kaggle
+collegefootballbowl.csv: CSV file that contains the data straight from Kaggle
 | Column Name | Data Type | Description | 
 | ------ | ------ | ----- |
 | Winner/Tie | Text | College name of the bowl game winner |
