@@ -1,5 +1,3 @@
-This folder contains the Jupyter Notebook file for the project.
+mvanzant_data_scraping_and_integration.ipynb : the jupyter notebook that contains the code used to scrape the data from D1ticker and the steps to integrate that data with the kaggle data
 
-The file currently contains all python code for each step of the problem.
-
-In the future I plan to split the file into two, the first containing the web scrapping and combining/cleaning it into a new csv. The second .ipyn file would contain the analysis including visulization and machine learning processes.
+Project_analysis: the jupyter notebook that contains the code used to preform all testings and visualizations
